@@ -1,2 +1,2 @@
 # ecommerce-admin-frontend
-Ecommerce admin panel written in React
+Ecommerce admin dashboard developed in ReactJs
