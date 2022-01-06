@@ -1,0 +1,22 @@
+[
+  {
+    "id": "product_type.form.installation_required.label",
+    "defaultMessage": "Installation required"
+  },
+  {
+    "id": "product_type.form.show_in_top_sales.label",
+    "defaultMessage": "Show in top sales"
+  },
+  {
+    "id": "product.form.has_warranty_period.label",
+    "defaultMessage": "Has warranty period"
+  },
+  {
+    "id": "product.form.warranty_period.label",
+    "defaultMessage": "Warranty period"
+  },
+  {
+    "id": "product.form.warranty_period_term.label",
+    "defaultMessage": "Warranty period term"
+  }
+]

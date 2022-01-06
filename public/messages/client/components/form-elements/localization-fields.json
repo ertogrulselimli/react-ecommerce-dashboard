@@ -1,0 +1,18 @@
+[
+  {
+    "id": "localizaion.form.lang_key.placeholder",
+    "defaultMessage": "key"
+  },
+  {
+    "id": "localizaion.form.lang_value.placeholder",
+    "defaultMessage": "translation"
+  },
+  {
+    "id": "localizaion.form.error.duplicate_key",
+    "defaultMessage": "This language key already exists"
+  },
+  {
+    "id": "localizaion.form.error.key_not_allowed",
+    "defaultMessage": "Language key not valid."
+  }
+]

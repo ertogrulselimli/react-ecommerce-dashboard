@@ -1,0 +1,14 @@
+[
+  {
+    "id": "attribute.update_success_msg",
+    "defaultMessage": "Attribute updated successfully"
+  },
+  {
+    "id": "attribute.create_success_msg",
+    "defaultMessage": "Attribute created successfully"
+  },
+  {
+    "id": "product.attributes.select_category_first_msg",
+    "defaultMessage": "To display this information please select category"
+  }
+]

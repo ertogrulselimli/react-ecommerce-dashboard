@@ -1,0 +1,26 @@
+[
+  {
+    "id": "brand.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "brand.form.link.localization",
+    "defaultMessage": "Localization"
+  },
+  {
+    "id": "brands.update_success_msg",
+    "defaultMessage": "Brand updated successfully"
+  },
+  {
+    "id": "brands.create_success_msg",
+    "defaultMessage": "Brand created successfully"
+  },
+  {
+    "id": "brands.delete_success_msg",
+    "defaultMessage": "Brand deleted successfully"
+  },
+  {
+    "id": "brands.title",
+    "defaultMessage": "Brands"
+  }
+]

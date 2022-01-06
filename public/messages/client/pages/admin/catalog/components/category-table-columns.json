@@ -1,0 +1,42 @@
+[
+  {
+    "id": "category.table.id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "category.table.code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "category.table.category-level",
+    "defaultMessage": "Category Level"
+  },
+  {
+    "id": "category.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "category.table.root",
+    "defaultMessage": "Root"
+  },
+  {
+    "id": "category.table.concrete",
+    "defaultMessage": "Concrete"
+  },
+  {
+    "id": "category.table.parentId",
+    "defaultMessage": "Parent Id"
+  },
+  {
+    "id": "category.table.parentCode",
+    "defaultMessage": "Parent Code"
+  },
+  {
+    "id": "category.table.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "item_name.table.active",
+    "defaultMessage": "Active"
+  }
+]

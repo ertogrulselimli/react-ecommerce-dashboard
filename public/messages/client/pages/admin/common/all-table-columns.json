@@ -1,0 +1,110 @@
+[
+  {
+    "id": "brands.table.id",
+    "defaultMessage": "Brand id"
+  },
+  {
+    "id": "brands.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "brands.table.brand_code_mapping_id",
+    "defaultMessage": "Brand Code Mapping Id"
+  },
+  {
+    "id": "brands.table.brand_description_mapping",
+    "defaultMessage": "Brand Description Mapping"
+  },
+  {
+    "id": "brands.table.active",
+    "defaultMessage": "Active"
+  },
+  {
+    "id": "item_name.table.item_name_id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "item_name.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "item_name.table.categoryDescription",
+    "defaultMessage": "category"
+  },
+  {
+    "id": "item_name.table.name_code_mapping",
+    "defaultMessage": "Name code mapping"
+  },
+  {
+    "id": "item_name.table.name_desc_mapping",
+    "defaultMessage": "Name description mapping"
+  },
+  {
+    "id": "item_name.table.active",
+    "defaultMessage": "Active"
+  },
+  {
+    "id": "category.table.id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "category.table.code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "category.table.category-level",
+    "defaultMessage": "Category Level"
+  },
+  {
+    "id": "category.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "category.table.root",
+    "defaultMessage": "Root"
+  },
+  {
+    "id": "category.table.concrete",
+    "defaultMessage": "Concrete"
+  },
+  {
+    "id": "category.table.parentId",
+    "defaultMessage": "Parent Id"
+  },
+  {
+    "id": "category.table.parentCode",
+    "defaultMessage": "Parent Code"
+  },
+  {
+    "id": "category.table.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "unit_of_measurement.id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "unit_of_measurement.table.name",
+    "defaultMessage": "Display Name"
+  },
+  {
+    "id": "unit_of_measurement.table.description",
+    "defaultMessage": "description"
+  },
+  {
+    "id": "unit_of_measurement.table.active",
+    "defaultMessage": "Active"
+  },
+  {
+    "id": "product_type.table.id",
+    "defaultMessage": "Product Type Id"
+  },
+  {
+    "id": "product_type.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "product_type.table.active",
+    "defaultMessage": "Active"
+  }
+]

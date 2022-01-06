@@ -1,0 +1,18 @@
+[
+  {
+    "id": "product.form.link.main_information",
+    "defaultMessage": "Main"
+  },
+  {
+    "id": "product.form.link.shop_medias",
+    "defaultMessage": "Shop medias"
+  },
+  {
+    "id": "shop.form.link.other_income",
+    "defaultMessage": "Other Income Information"
+  },
+  {
+    "id": "shop.form.link.commision_by_categories",
+    "defaultMessage": "Commision By Categories Information"
+  }
+]

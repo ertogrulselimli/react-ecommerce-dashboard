@@ -1,0 +1,14 @@
+[
+  {
+    "id": "other.income.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "other.income.list.form.activationDateFrom.label",
+    "defaultMessage": "Activation Date From"
+  },
+  {
+    "id": "other.income.list.form.activationDateTo.label",
+    "defaultMessage": "Activation Date To"
+  }
+]

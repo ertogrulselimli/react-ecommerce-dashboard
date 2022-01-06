@@ -1,0 +1,10 @@
+[
+  {
+    "id": "operation_import.create_success_msg",
+    "defaultMessage": "File uploaded successfully"
+  },
+  {
+    "id": "operation_import.title",
+    "defaultMessage": "Import files"
+  }
+]

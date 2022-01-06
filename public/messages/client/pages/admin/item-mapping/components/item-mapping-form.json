@@ -1,0 +1,14 @@
+[
+  {
+    "id": "item_mapping.form.itemName.label",
+    "defaultMessage": "Item name"
+  },
+  {
+    "id": "item_mapping.form.product.label",
+    "defaultMessage": "Product"
+  },
+  {
+    "id": "item_mapping.form.shop.label",
+    "defaultMessage": "Shop"
+  }
+]

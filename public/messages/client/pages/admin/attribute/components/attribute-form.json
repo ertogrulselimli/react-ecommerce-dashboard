@@ -1,0 +1,14 @@
+[
+  {
+    "id": "attributes.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "attributes.form.link.unit_of_measurement",
+    "defaultMessage": "Unit of measurements"
+  },
+  {
+    "id": "attributes.form.link.values",
+    "defaultMessage": "Values"
+  }
+]

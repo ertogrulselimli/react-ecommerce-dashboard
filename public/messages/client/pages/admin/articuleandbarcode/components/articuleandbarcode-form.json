@@ -1,0 +1,22 @@
+[
+  {
+    "id": "product.form.link.main_information",
+    "defaultMessage": "Main"
+  },
+  {
+    "id": "articuleandbarcode.form.articuleNumber.label",
+    "defaultMessage": "Articule number"
+  },
+  {
+    "id": "articuleandbarcode.form.barCode.label",
+    "defaultMessage": "Barcode"
+  },
+  {
+    "id": "articuleandbarcode.form.partnersItemName.label",
+    "defaultMessage": "Partners Item Name"
+  },
+  {
+    "id": "articuleandbarcode.form.partnersItemModel.label",
+    "defaultMessage": "Partners Item Model"
+  }
+]

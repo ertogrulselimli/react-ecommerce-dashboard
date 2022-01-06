@@ -1,0 +1,14 @@
+[
+  {
+    "id": "attribute.update_success_msg",
+    "defaultMessage": "Attribute updated successfully"
+  },
+  {
+    "id": "attribute.create_success_msg",
+    "defaultMessage": "Attribute created successfully"
+  },
+  {
+    "id": "attribute.delete_success_msg",
+    "defaultMessage": "Attribute deleted successfully"
+  }
+]

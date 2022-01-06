@@ -1,0 +1,18 @@
+[
+  {
+    "id": "inventory.update_success_msg",
+    "defaultMessage": "inventory updated successfully"
+  },
+  {
+    "id": "inventory.create_success_msg",
+    "defaultMessage": "Inventory created successfully"
+  },
+  {
+    "id": "inventory.title",
+    "defaultMessage": "Inventory"
+  },
+  {
+    "id": "inventory.index.filter_shop.label",
+    "defaultMessage": "Select shop"
+  }
+]

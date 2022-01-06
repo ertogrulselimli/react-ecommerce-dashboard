@@ -1,0 +1,26 @@
+[
+  {
+    "id": "attribute.values.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "attribute.values.unit",
+    "defaultMessage": "Unit"
+  },
+  {
+    "id": "attribute.values.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "attribute.values.table.code_mapping",
+    "defaultMessage": "Code mapping"
+  },
+  {
+    "id": "attribute.values.table.desc_mapping",
+    "defaultMessage": "Description mapping"
+  },
+  {
+    "id": "attribute.table.active",
+    "defaultMessage": "Active"
+  }
+]

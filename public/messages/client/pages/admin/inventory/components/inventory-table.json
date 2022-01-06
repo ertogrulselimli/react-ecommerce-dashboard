@@ -1,0 +1,34 @@
+[
+  {
+    "id": "inventory.table.code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "inventory.table.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "inventory.table.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "inventory.table.postcode",
+    "defaultMessage": "Postcode"
+  },
+  {
+    "id": "inventory.table.shopCode",
+    "defaultMessage": "Shop"
+  },
+  {
+    "id": "inventory.table.multiple_shipping_supported",
+    "defaultMessage": "Multiple shipping supported"
+  },
+  {
+    "id": "inventory.table.country_code",
+    "defaultMessage": "Country code"
+  },
+  {
+    "id": "inventory.table.description",
+    "defaultMessage": "description"
+  }
+]

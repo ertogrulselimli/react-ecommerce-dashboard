@@ -1,0 +1,18 @@
+[
+  {
+    "id": "top_sales.update_success_msg",
+    "defaultMessage": "Top Sale updated successfully"
+  },
+  {
+    "id": "top_sales.create_success_msg",
+    "defaultMessage": "Top Sale created successfully"
+  },
+  {
+    "id": "top_sales.delete_success_msg",
+    "defaultMessage": "Top Sale deleted successfully"
+  },
+  {
+    "id": "top_sales.title",
+    "defaultMessage": "Top Sales"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "city.table.code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "city.table.description",
+    "defaultMessage": "Description"
+  }
+]

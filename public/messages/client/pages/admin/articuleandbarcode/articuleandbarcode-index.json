@@ -1,0 +1,14 @@
+[
+  {
+    "id": "articule.barcode.update_success_msg",
+    "defaultMessage": "Articule and Barcode updated successfully"
+  },
+  {
+    "id": "articule.barcode.create_success_msg",
+    "defaultMessage": "Articule and Barcode created successfully"
+  },
+  {
+    "id": "articuleandbarcode.title",
+    "defaultMessage": "Articule and Barcode"
+  }
+]

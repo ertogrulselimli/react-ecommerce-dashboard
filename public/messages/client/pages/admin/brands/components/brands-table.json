@@ -1,0 +1,22 @@
+[
+  {
+    "id": "brands.table.id",
+    "defaultMessage": "Brand id"
+  },
+  {
+    "id": "brands.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "brands.table.brand_code_mapping_id",
+    "defaultMessage": "Brand Code Mapping Id"
+  },
+  {
+    "id": "brands.table.brand_description_mapping",
+    "defaultMessage": "Brand Description Mapping"
+  },
+  {
+    "id": "brands.table.active",
+    "defaultMessage": "Active"
+  }
+]

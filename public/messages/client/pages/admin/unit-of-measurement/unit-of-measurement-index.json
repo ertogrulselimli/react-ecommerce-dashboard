@@ -1,0 +1,18 @@
+[
+  {
+    "id": "unit_of_measurement.update_success_msg",
+    "defaultMessage": "Unit updated successfully"
+  },
+  {
+    "id": "unit_of_measurement.create_success_msg",
+    "defaultMessage": "Unit created successfully"
+  },
+  {
+    "id": "unit_of_measurement.delete_success_msg",
+    "defaultMessage": "Unit deleted successfully"
+  },
+  {
+    "id": "unit_of_measurement.title",
+    "defaultMessage": "Unit of measurements"
+  }
+]

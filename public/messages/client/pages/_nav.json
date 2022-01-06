@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sidenav.dashboard",
+    "defaultMessage": "Dashboard"
+  },
+  {
+    "id": "sidenav.master_catalog",
+    "defaultMessage": "Master Catalog"
+  },
+  {
+    "id": "sidenav.master_catalog.catalog",
+    "defaultMessage": "Catalog"
+  },
+  {
+    "id": "sidenav.master_catalog.products",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "sidenav.manager",
+    "defaultMessage": "Manager"
+  }
+]

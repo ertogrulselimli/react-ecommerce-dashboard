@@ -1,0 +1,30 @@
+[
+  {
+    "id": "table.previous_page",
+    "defaultMessage": "Previous"
+  },
+  {
+    "id": "table.next_page",
+    "defaultMessage": "Next"
+  },
+  {
+    "id": "table.loading",
+    "defaultMessage": "Loading..."
+  },
+  {
+    "id": "table.need_filter_for_show_data",
+    "defaultMessage": "This panel requires filter to display results. Please type search phrase into filter input."
+  },
+  {
+    "id": "table.no_data_found",
+    "defaultMessage": "No data found"
+  },
+  {
+    "id": "table.page",
+    "defaultMessage": "Page"
+  },
+  {
+    "id": "table.of_text",
+    "defaultMessage": "of"
+  }
+]

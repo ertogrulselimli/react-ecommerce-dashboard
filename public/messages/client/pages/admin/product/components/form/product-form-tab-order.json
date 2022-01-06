@@ -1,0 +1,34 @@
+[
+  {
+    "id": "product.form.width.label",
+    "defaultMessage": "Width"
+  },
+  {
+    "id": "product.form.height.label",
+    "defaultMessage": "Height"
+  },
+  {
+    "id": "product.form.depth.label",
+    "defaultMessage": "Depth"
+  },
+  {
+    "id": "product.form.volume.label",
+    "defaultMessage": "Volume"
+  },
+  {
+    "id": "product.form.weight.label",
+    "defaultMessage": "Weight"
+  },
+  {
+    "id": "product.form.min_order_quantity.label",
+    "defaultMessage": "Min order quantity"
+  },
+  {
+    "id": "product.form.max_order_quantity.label",
+    "defaultMessage": "Max order quantity"
+  },
+  {
+    "id": "product.form.step_order_quantity.label",
+    "defaultMessage": "Step order quantity"
+  }
+]

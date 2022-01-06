@@ -1,0 +1,22 @@
+[
+  {
+    "id": "manager.update_success_msg",
+    "defaultMessage": "Manager updated successfully"
+  },
+  {
+    "id": "manager.create_success_msg",
+    "defaultMessage": "Manager created successfully"
+  },
+  {
+    "id": "manager.reset_password_button_title",
+    "defaultMessage": "Reset password"
+  },
+  {
+    "id": "manager.reset_password_success_message",
+    "defaultMessage": "New code has been sent to manager`s email"
+  },
+  {
+    "id": "managers.title",
+    "defaultMessage": "Managers"
+  }
+]

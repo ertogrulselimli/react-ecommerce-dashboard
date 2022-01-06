@@ -1,0 +1,26 @@
+[
+  {
+    "id": "comission_by_category.table.id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "comission_by_category.table.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "comission_by_category.table.shop",
+    "defaultMessage": "Shop"
+  },
+  {
+    "id": "comission_by_category.table.comission",
+    "defaultMessage": "Comission"
+  },
+  {
+    "id": "comission_by_category.table.from",
+    "defaultMessage": "Date From"
+  },
+  {
+    "id": "comission_by_category.table.to",
+    "defaultMessage": "Date to"
+  }
+]

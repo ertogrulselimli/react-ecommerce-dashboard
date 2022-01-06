@@ -1,0 +1,50 @@
+[
+  {
+    "id": "excel_item_mapping.table.category1",
+    "defaultMessage": "Category1"
+  },
+  {
+    "id": "excel_item_mapping.table.category2",
+    "defaultMessage": "Category2"
+  },
+  {
+    "id": "excel_item_mapping.table.category3",
+    "defaultMessage": "Category3"
+  },
+  {
+    "id": "excel_item_mapping.table.shop",
+    "defaultMessage": "Shop"
+  },
+  {
+    "id": "excel_item_mapping.table.brand",
+    "defaultMessage": "Brand"
+  },
+  {
+    "id": "excel_item_mapping.table.item_name",
+    "defaultMessage": "Item Name"
+  },
+  {
+    "id": "excel_item_mapping.table.model",
+    "defaultMessage": "Model"
+  },
+  {
+    "id": "excel_item_mapping.table.name_az",
+    "defaultMessage": "Name az"
+  },
+  {
+    "id": "excel_item_mapping.table.name_ru",
+    "defaultMessage": "Name ru"
+  },
+  {
+    "id": "excel_item_mapping.table.price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "excel_item_mapping.table.articule_number",
+    "defaultMessage": "Articule Number"
+  },
+  {
+    "id": "excel_item_mapping.table.barcode",
+    "defaultMessage": "Barcode"
+  }
+]

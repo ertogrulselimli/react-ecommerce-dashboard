@@ -1,0 +1,10 @@
+[
+  {
+    "id": "typeOfIncome.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "typeOfIncome.form.description.label",
+    "defaultMessage": "Description"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "price.list.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "price.list.form.available.label",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "price.list.form.price.label",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "price.list.form.articuleNumber.label",
+    "defaultMessage": "Articule Number"
+  },
+  {
+    "id": "price.list.form.barCode.label",
+    "defaultMessage": "Barcode"
+  },
+  {
+    "id": "price.list.form.comissionOfPlatformOwner.label",
+    "defaultMessage": "Comission of Platform Owner"
+  },
+  {
+    "id": "price.list.form.discountForQuantity.label",
+    "defaultMessage": "Discount For Quantity"
+  },
+  {
+    "id": "price.list.form.penaltyForGoodRefusal.label",
+    "defaultMessage": "Penalty For Good Refusal"
+  },
+  {
+    "id": "price.list.form.saleQuantity.label",
+    "defaultMessage": "Sale Quantity"
+  },
+  {
+    "id": "price.list.form.expectedDeliveryTime.label",
+    "defaultMessage": "Expected Delivery Time"
+  },
+  {
+    "id": "price.list.form.from.label",
+    "defaultMessage": "From"
+  },
+  {
+    "id": "price.list.form.to.label",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "price.list.form.shopId.label",
+    "defaultMessage": "Shop Id"
+  },
+  {
+    "id": "price.list.form.productId.label",
+    "defaultMessage": "Product Id"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "otherIncome.update_success_msg",
+    "defaultMessage": "Other income updated successfully"
+  },
+  {
+    "id": "otherIncome.create_success_msg",
+    "defaultMessage": "Other income created successfully"
+  },
+  {
+    "id": "otherIncome.title",
+    "defaultMessage": "Other Income"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.main_information",
+    "defaultMessage": "Main"
+  },
+  {
+    "id": "common.attributes",
+    "defaultMessage": "Attributes"
+  }
+]

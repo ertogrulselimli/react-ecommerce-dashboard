@@ -1,0 +1,34 @@
+[
+  {
+    "id": "action_buttons.save.title",
+    "defaultMessage": "save"
+  },
+  {
+    "id": "action_buttons.add.title",
+    "defaultMessage": "add"
+  },
+  {
+    "id": "action_buttons.edit.title",
+    "defaultMessage": "edit"
+  },
+  {
+    "id": "action_buttons.delete.title",
+    "defaultMessage": "delete"
+  },
+  {
+    "id": "action_buttons.default.confirm_message",
+    "defaultMessage": "Are you sure"
+  },
+  {
+    "id": "action_buttons.back.title",
+    "defaultMessage": "go back"
+  },
+  {
+    "id": "action_buttons.refresh.title",
+    "defaultMessage": "refresh"
+  },
+  {
+    "id": "action_buttons.undo.title",
+    "defaultMessage": "Undo"
+  }
+]

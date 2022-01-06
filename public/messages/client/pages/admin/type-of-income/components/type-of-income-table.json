@@ -1,0 +1,10 @@
+[
+  {
+    "id": "typeOfIncome.table.id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "typeOfIncome.table.description",
+    "defaultMessage": "Description"
+  }
+]

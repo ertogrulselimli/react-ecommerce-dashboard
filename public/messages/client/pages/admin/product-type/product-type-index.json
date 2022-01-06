@@ -1,0 +1,14 @@
+[
+  {
+    "id": "product_type.update_success_msg",
+    "defaultMessage": "Product type updated successfully"
+  },
+  {
+    "id": "product_type.create_success_msg",
+    "defaultMessage": "Product type created successfully"
+  },
+  {
+    "id": "product_types.title",
+    "defaultMessage": "Product types"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "other.income.table.type_of_income",
+    "defaultMessage": "Type of Income"
+  },
+  {
+    "id": "other.income.table.shop_description",
+    "defaultMessage": "Shop Description"
+  },
+  {
+    "id": "other.income.table.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "other.income.table.activation_date_from",
+    "defaultMessage": "Activation Date From"
+  },
+  {
+    "id": "other.income.table.activation_date_to",
+    "defaultMessage": "Activation Date To"
+  }
+]

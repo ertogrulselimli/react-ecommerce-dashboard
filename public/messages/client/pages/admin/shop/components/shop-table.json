@@ -1,0 +1,26 @@
+[
+  {
+    "id": "shop.table.id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "shop.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "shop.table.partnerType",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "shop.table.comission",
+    "defaultMessage": "comission"
+  },
+  {
+    "id": "shop.table.displayGoodsOnSeperateCard",
+    "defaultMessage": "Display Goods on seperate Card"
+  },
+  {
+    "id": "shop.table.active",
+    "defaultMessage": "Active"
+  }
+]

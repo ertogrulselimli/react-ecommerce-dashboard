@@ -1,0 +1,18 @@
+[
+  {
+    "id": "city.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "city.form.link.localization",
+    "defaultMessage": "Localization"
+  },
+  {
+    "id": "city.form.code.label",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "city.form.description.label",
+    "defaultMessage": "Description"
+  }
+]

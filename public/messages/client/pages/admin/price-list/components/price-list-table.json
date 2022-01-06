@@ -1,0 +1,58 @@
+[
+  {
+    "id": "price.list.table.shopId",
+    "defaultMessage": "Shop Id"
+  },
+  {
+    "id": "price.list.table.productId",
+    "defaultMessage": "Product Id"
+  },
+  {
+    "id": "price.list.table.from",
+    "defaultMessage": "From"
+  },
+  {
+    "id": "price.list.table.to",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "price.list.table.articuleNumber",
+    "defaultMessage": "Articule Number"
+  },
+  {
+    "id": "price.list.table.barCode",
+    "defaultMessage": "Bar Code"
+  },
+  {
+    "id": "price.list.table.price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "price.list.table.saleQuantity",
+    "defaultMessage": "Sale quantity"
+  },
+  {
+    "id": "price.list.table.discountForQuantity",
+    "defaultMessage": "Discount for Quantity"
+  },
+  {
+    "id": "price.list.table.comissionOfPlatformOwner",
+    "defaultMessage": "Comission of Platform Owner"
+  },
+  {
+    "id": "price.list.table.available",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "price.list.table.expectedDeliveryTime",
+    "defaultMessage": "Expested Delivery Time"
+  },
+  {
+    "id": "price.list.table.penaltyForGoodRefusal",
+    "defaultMessage": "Penalty For Good Refusal"
+  },
+  {
+    "id": "price.list.table.active",
+    "defaultMessage": "Active"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "excel_item_mapping.update_success_msg",
+    "defaultMessage": "Comission updated successfully"
+  },
+  {
+    "id": "excel_item_mapping.create_success_msg",
+    "defaultMessage": "Comission created successfully"
+  },
+  {
+    "id": "excel_item_mapping.delete_success_msg",
+    "defaultMessage": "Comission deleted successfully"
+  },
+  {
+    "id": "excel_item_mapping.title",
+    "defaultMessage": "Excel Item Mapping"
+  }
+]

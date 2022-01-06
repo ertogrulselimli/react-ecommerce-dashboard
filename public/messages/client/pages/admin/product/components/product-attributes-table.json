@@ -1,0 +1,18 @@
+[
+  {
+    "id": "product.attributes.table.name",
+    "defaultMessage": "Attribute Display Name"
+  },
+  {
+    "id": "product.attributes.table.mandatory",
+    "defaultMessage": "Mandatory"
+  },
+  {
+    "id": "product.attributes.table.unit",
+    "defaultMessage": "Unit"
+  },
+  {
+    "id": "product.attributes.table.value",
+    "defaultMessage": "Value Display Name"
+  }
+]

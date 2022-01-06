@@ -1,0 +1,34 @@
+[
+  {
+    "id": "product.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "production.form.link.localization",
+    "defaultMessage": "Localization"
+  },
+  {
+    "id": "production.form.link.configuration",
+    "defaultMessage": "Configuration"
+  },
+  {
+    "id": "production.form.link.order",
+    "defaultMessage": "Order"
+  },
+  {
+    "id": "production.form.link.attributes",
+    "defaultMessage": "Attributes"
+  },
+  {
+    "id": "production.form.link.images",
+    "defaultMessage": "Images"
+  },
+  {
+    "id": "production.form.link.articules",
+    "defaultMessage": "Articules"
+  },
+  {
+    "id": "production.form.link.barcodes",
+    "defaultMessage": "Barcodes"
+  }
+]

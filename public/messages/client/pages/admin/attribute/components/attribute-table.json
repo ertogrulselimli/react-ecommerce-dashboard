@@ -1,0 +1,22 @@
+[
+  {
+    "id": "attribute.table.id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "attribute.table.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "attribute.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "attribute.table.type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "attributes.table.active",
+    "defaultMessage": "Active"
+  }
+]

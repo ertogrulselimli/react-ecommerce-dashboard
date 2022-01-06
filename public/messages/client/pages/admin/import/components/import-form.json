@@ -1,0 +1,10 @@
+[
+  {
+    "id": "import_operation.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "import_operation.form.template_name.label",
+    "defaultMessage": "Template Name"
+  }
+]

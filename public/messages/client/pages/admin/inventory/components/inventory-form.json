@@ -1,0 +1,54 @@
+[
+  {
+    "id": "common.main_information",
+    "defaultMessage": "Main"
+  },
+  {
+    "id": "inventory.form.shop_code.label",
+    "defaultMessage": "Shop"
+  },
+  {
+    "id": "inventory.form.code.label",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "inventory.form.name.label",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "inventory.form.display_name.label",
+    "defaultMessage": "Display name"
+  },
+  {
+    "id": "inventory.form.postcode.label",
+    "defaultMessage": "Postcode"
+  },
+  {
+    "id": "inventory.form.stateCode.label",
+    "defaultMessage": "State code"
+  },
+  {
+    "id": "inventory.form.city.label",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "inventory.form.countryCode.label",
+    "defaultMessage": "Country code"
+  },
+  {
+    "id": "inventory.form.default_backorder_stock_lead_time.label",
+    "defaultMessage": "Default backorder stock lead time"
+  },
+  {
+    "id": "inventory.form.default_standard_stock_lead_time.label",
+    "defaultMessage": "Default standard stock lead time"
+  },
+  {
+    "id": "product_type.attribute.form.multiple_shipping_supported.label",
+    "defaultMessage": "Multiple shipping supported"
+  },
+  {
+    "id": "inventory.form.description.label",
+    "defaultMessage": "Description"
+  }
+]

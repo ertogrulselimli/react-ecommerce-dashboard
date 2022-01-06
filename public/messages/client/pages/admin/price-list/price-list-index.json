@@ -1,0 +1,14 @@
+[
+  {
+    "id": "price.list.update_success_msg",
+    "defaultMessage": "Price list updated successfully"
+  },
+  {
+    "id": "price.list.create_success_msg",
+    "defaultMessage": "Price list created successfully"
+  },
+  {
+    "id": "price.list.title",
+    "defaultMessage": "Price list"
+  }
+]

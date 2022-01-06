@@ -1,0 +1,14 @@
+[
+  {
+    "id": "typeOfIncome.update_success_msg",
+    "defaultMessage": "Type of income updated successfully"
+  },
+  {
+    "id": "typeOfIncome.create_success_msg",
+    "defaultMessage": "Type of income created successfully"
+  },
+  {
+    "id": "typeOfIncome.title",
+    "defaultMessage": "Type of Income"
+  }
+]

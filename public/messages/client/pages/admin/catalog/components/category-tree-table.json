@@ -1,0 +1,50 @@
+[
+  {
+    "id": "table.yes_message",
+    "defaultMessage": "Yes"
+  },
+  {
+    "id": "table.no_message",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "category.table.id",
+    "defaultMessage": "ID"
+  },
+  {
+    "id": "category.table.code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "category.table.categoryLevel",
+    "defaultMessage": "categoryLevel"
+  },
+  {
+    "id": "category.table.name",
+    "defaultMessage": "Display Name"
+  },
+  {
+    "id": "category.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "category.table.root",
+    "defaultMessage": "Root"
+  },
+  {
+    "id": "category.table.concrete",
+    "defaultMessage": "Concrete"
+  },
+  {
+    "id": "category.table.parent_id",
+    "defaultMessage": "Parent ID"
+  },
+  {
+    "id": "category.table.parentCode",
+    "defaultMessage": "parentCode"
+  },
+  {
+    "id": "category.table.active",
+    "defaultMessage": "Active"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "form.assinger.available_data_not_found",
+    "defaultMessage": "Available data not found"
+  },
+  {
+    "id": "form.assinger.assigned_data_not_found",
+    "defaultMessage": "Not data assigned yet"
+  },
+  {
+    "id": "form.assinger.assigned",
+    "defaultMessage": "Assigned"
+  },
+  {
+    "id": "form.assinger.available",
+    "defaultMessage": "Available"
+  }
+]

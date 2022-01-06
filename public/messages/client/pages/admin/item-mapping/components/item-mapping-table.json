@@ -1,0 +1,26 @@
+[
+  {
+    "id": "item_mapping.table.articul_number",
+    "defaultMessage": "Articul Number"
+  },
+  {
+    "id": "item_mapping.table.barcode",
+    "defaultMessage": "Barcode"
+  },
+  {
+    "id": "item_mapping.table.category_description",
+    "defaultMessage": "Category Description"
+  },
+  {
+    "id": "item_mapping.table.item_name_description",
+    "defaultMessage": "Item Name Description"
+  },
+  {
+    "id": "item_mapping.table.shop_description",
+    "defaultMessage": "Shop Description"
+  },
+  {
+    "id": "item_mapping.table.active",
+    "defaultMessage": "Active"
+  }
+]

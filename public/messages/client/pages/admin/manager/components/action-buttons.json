@@ -1,0 +1,26 @@
+[
+  {
+    "id": "action_buttons.save.title",
+    "defaultMessage": "save"
+  },
+  {
+    "id": "action_buttons.add.title",
+    "defaultMessage": "add"
+  },
+  {
+    "id": "action_buttons.edit.title",
+    "defaultMessage": "edit"
+  },
+  {
+    "id": "action_buttons.delete.title",
+    "defaultMessage": "delete"
+  },
+  {
+    "id": "action_buttons.back.title",
+    "defaultMessage": "go back"
+  },
+  {
+    "id": "action_buttons.refresh.title",
+    "defaultMessage": "refresh"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "operation_import.table.id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "operation_import.table.file_name",
+    "defaultMessage": "File Name"
+  },
+  {
+    "id": "operation_import.table.shop",
+    "defaultMessage": "Shop"
+  },
+  {
+    "id": "operation_import.table.template_name",
+    "defaultMessage": "Template Name"
+  },
+  {
+    "id": "operation_import.table.create_date",
+    "defaultMessage": "Create Date"
+  },
+  {
+    "id": "operation_import.table.processed",
+    "defaultMessage": "Processed"
+  }
+]

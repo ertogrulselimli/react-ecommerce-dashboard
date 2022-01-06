@@ -1,0 +1,14 @@
+[
+  {
+    "id": "attributes.values.localization",
+    "defaultMessage": "Display value"
+  },
+  {
+    "id": "attributes.values.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "attributes.values.unit",
+    "defaultMessage": "Unit"
+  }
+]

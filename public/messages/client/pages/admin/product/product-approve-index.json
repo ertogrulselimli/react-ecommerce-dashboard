@@ -1,0 +1,30 @@
+[
+  {
+    "id": "product.update_success_msg",
+    "defaultMessage": "Product updated successfully"
+  },
+  {
+    "id": "product.create_success_msg",
+    "defaultMessage": "Product created successfully"
+  },
+  {
+    "id": "product.fill_mandatory_attribute_msg",
+    "defaultMessage": "Please fill all mandatory attributes before submit"
+  },
+  {
+    "id": "product_approve.button.approve.title",
+    "defaultMessage": "Approve"
+  },
+  {
+    "id": "product_approve.button.reject.title",
+    "defaultMessage": "Reject"
+  },
+  {
+    "id": "product_approve.approved_success_msg",
+    "defaultMessage": "Product approved"
+  },
+  {
+    "id": "products_approve.title",
+    "defaultMessage": "Approve products"
+  }
+]

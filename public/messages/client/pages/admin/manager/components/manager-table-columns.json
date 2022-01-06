@@ -1,0 +1,22 @@
+[
+  {
+    "id": "firstname",
+    "defaultMessage": "Firstname"
+  },
+  {
+    "id": "lastname",
+    "defaultMessage": "Lastname"
+  },
+  {
+    "id": "email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "company_name",
+    "defaultMessage": "Company name"
+  },
+  {
+    "id": "brands.table.active",
+    "defaultMessage": "Active"
+  }
+]

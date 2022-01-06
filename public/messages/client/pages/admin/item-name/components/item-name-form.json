@@ -1,0 +1,14 @@
+[
+  {
+    "id": "item_name.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "item_name.form.link.localization",
+    "defaultMessage": "Localization"
+  },
+  {
+    "id": "item_name.form.category.label",
+    "defaultMessage": "Category"
+  }
+]

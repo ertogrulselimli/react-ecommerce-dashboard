@@ -1,0 +1,10 @@
+[
+  {
+    "id": "product_type.attribute.form.mandatory.label",
+    "defaultMessage": "Mandatory"
+  },
+  {
+    "id": "product_type.attribute.form.showInFilters.label",
+    "defaultMessage": "Show in filters"
+  }
+]

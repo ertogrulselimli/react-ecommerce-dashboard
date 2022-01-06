@@ -1,0 +1,10 @@
+[
+  {
+    "id": "comission_by_category.form.link.main_information",
+    "defaultMessage": "Əsas məlumatlar"
+  },
+  {
+    "id": "top_sales.form.metric.label",
+    "defaultMessage": "Top Sale Metric"
+  }
+]

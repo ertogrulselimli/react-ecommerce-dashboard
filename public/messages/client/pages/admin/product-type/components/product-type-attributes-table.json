@@ -1,0 +1,22 @@
+[
+  {
+    "id": "attribute.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "producttype.attribute.table.rank",
+    "defaultMessage": "Rank"
+  },
+  {
+    "id": "producttype.attribute.table.mandatory",
+    "defaultMessage": "Mandatory"
+  },
+  {
+    "id": "producttype.attribute.table.show_in_filter",
+    "defaultMessage": "Show in filter"
+  },
+  {
+    "id": "producttype.attribute.table.active",
+    "defaultMessage": "Active"
+  }
+]

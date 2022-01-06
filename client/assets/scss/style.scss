@@ -1,0 +1,58 @@
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+
+@import "404";
+@import "sign-in";
+@import "buttons";
+@import "react-table";
+@import "react-transition";
+@import "media-uploader";
+@import "admin-top-nav";
+@import "modal";
+@import "category";
+
+.c-pointer {
+  cursor: pointer;
+}
+
+.dropdownpositionstatic {
+  position: static;
+}
+
+#draggable {
+  //position: absolute;
+  pointer-events: none;
+  height: 100%;
+  width: 100%;
+}
+
+.dropdownFormHeight {
+  width: 100%;
+}
+
+
+.dropdownInputDirtyFocus {
+  color: #5c6873;
+  background-color: #fff;
+  border: solid 1px #f8d7da;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(238, 112, 123, 0.788);
+}
+
+.dropdownInputPristineFocus {
+  color: #5c6873;
+  background-color: #fff;
+  border: solid 1px #d4edda;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(113, 228, 151, 0.781);
+}
+
+
+@keyframes lds-dual-ring {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "product.barcodes.table.articule_number",
+    "defaultMessage": "Barcode"
+  },
+  {
+    "id": "product.barcodes.table.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "product.barcodes.table.partner_item_name",
+    "defaultMessage": "Partner Item Name"
+  },
+  {
+    "id": "product.barcodes.table.shop",
+    "defaultMessage": "Shop"
+  }
+]

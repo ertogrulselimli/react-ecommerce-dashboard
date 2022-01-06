@@ -1,0 +1,26 @@
+[
+  {
+    "id": "item_name.table.item_name_id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "item_name.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "item_name.table.categoryDescription",
+    "defaultMessage": "category"
+  },
+  {
+    "id": "item_name.table.name_code_mapping",
+    "defaultMessage": "Name code mapping"
+  },
+  {
+    "id": "item_name.table.name_desc_mapping",
+    "defaultMessage": "Name description mapping"
+  },
+  {
+    "id": "brands.table.active",
+    "defaultMessage": "Active"
+  }
+]

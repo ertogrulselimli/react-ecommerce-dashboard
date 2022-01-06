@@ -1,0 +1,26 @@
+[
+  {
+    "id": "top_sales.table.id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "top_sales.table.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "top_sales.table.product",
+    "defaultMessage": "Product"
+  },
+  {
+    "id": "top_sales.table.metric",
+    "defaultMessage": "Top Sales Metric"
+  },
+  {
+    "id": "top_sales.table.from",
+    "defaultMessage": "Date From"
+  },
+  {
+    "id": "top_sales.table.to",
+    "defaultMessage": "Date to"
+  }
+]

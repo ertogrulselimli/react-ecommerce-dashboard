@@ -1,0 +1,30 @@
+[
+  {
+    "id": "categories.update_success_msg",
+    "defaultMessage": "Category updated successfully"
+  },
+  {
+    "id": "categories.create_success_msg",
+    "defaultMessage": "Category created successfully"
+  },
+  {
+    "id": "categories.export_excel_button_title",
+    "defaultMessage": "Export to excel"
+  },
+  {
+    "id": "categories.delete_success_msg",
+    "defaultMessage": "Category deleted successfully"
+  },
+  {
+    "id": "categories.change_position_title",
+    "defaultMessage": "Change position"
+  },
+  {
+    "id": "categories.tree_button_title",
+    "defaultMessage": "Show Category Tree"
+  },
+  {
+    "id": "categories.title",
+    "defaultMessage": "Categories"
+  }
+]

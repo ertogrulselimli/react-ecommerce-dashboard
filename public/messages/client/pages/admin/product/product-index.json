@@ -1,0 +1,18 @@
+[
+  {
+    "id": "product.update_success_msg",
+    "defaultMessage": "Product updated successfully"
+  },
+  {
+    "id": "product.create_success_msg",
+    "defaultMessage": "Product created successfully"
+  },
+  {
+    "id": "product.fill_mandatory_attribute_msg",
+    "defaultMessage": "Please fill all mandatory attributes before submit"
+  },
+  {
+    "id": "products.title",
+    "defaultMessage": "Products"
+  }
+]

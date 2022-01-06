@@ -1,0 +1,14 @@
+[
+  {
+    "id": "city.update_success_msg",
+    "defaultMessage": "City updated successfully"
+  },
+  {
+    "id": "city.create_success_msg",
+    "defaultMessage": "City created successfully"
+  },
+  {
+    "id": "city.title",
+    "defaultMessage": "City"
+  }
+]

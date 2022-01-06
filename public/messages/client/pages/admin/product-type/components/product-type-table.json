@@ -1,0 +1,14 @@
+[
+  {
+    "id": "product_type.table.id",
+    "defaultMessage": "Product Type Id"
+  },
+  {
+    "id": "product_type.table.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "product_type.table.active",
+    "defaultMessage": "Active"
+  }
+]

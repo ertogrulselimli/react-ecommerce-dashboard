@@ -1,0 +1,18 @@
+[
+  {
+    "id": "product.articules.table.articule_number",
+    "defaultMessage": "Articule Number"
+  },
+  {
+    "id": "product.articules.table.category",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "product.articules.table.partner_item_name",
+    "defaultMessage": "Partner Item Name"
+  },
+  {
+    "id": "product.articules.table.shop",
+    "defaultMessage": "Shop"
+  }
+]

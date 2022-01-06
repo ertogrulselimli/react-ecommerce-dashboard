@@ -1,0 +1,18 @@
+[
+  {
+    "id": "unit_of_measurement.id",
+    "defaultMessage": "Id"
+  },
+  {
+    "id": "unit_of_measurement.table.name",
+    "defaultMessage": "Display Name"
+  },
+  {
+    "id": "unit_of_measurement.table.description",
+    "defaultMessage": "description"
+  },
+  {
+    "id": "unit_of_measurement.table.active",
+    "defaultMessage": "Active"
+  }
+]

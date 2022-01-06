@@ -1,0 +1,14 @@
+[
+  {
+    "id": "brands.update_success_msg",
+    "defaultMessage": "Brand updated successfully"
+  },
+  {
+    "id": "brands.create_success_msg",
+    "defaultMessage": "Brand created successfully"
+  },
+  {
+    "id": "shops.page_title",
+    "defaultMessage": "Shops"
+  }
+]

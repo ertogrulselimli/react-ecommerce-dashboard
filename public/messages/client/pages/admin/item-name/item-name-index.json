@@ -1,0 +1,18 @@
+[
+  {
+    "id": "item_name.update_success_msg",
+    "defaultMessage": "Item name updated successfully"
+  },
+  {
+    "id": "item_name.create_success_msg",
+    "defaultMessage": "Item name created successfully"
+  },
+  {
+    "id": "item_name.delete_success_msg",
+    "defaultMessage": "Item deleted successfully"
+  },
+  {
+    "id": "item_name.title",
+    "defaultMessage": "Item name"
+  }
+]

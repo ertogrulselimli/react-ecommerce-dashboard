@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sidenav.dashboard",
+    "defaultMessage": "Dashboard"
+  },
+  {
+    "id": "sidenav.master_catalog",
+    "defaultMessage": "Master Catalog"
+  },
+  {
+    "id": "sidenav.master_catalog.categories",
+    "defaultMessage": "Categories"
+  },
+  {
+    "id": "sidenav.master_catalog.item_name",
+    "defaultMessage": "Item name"
+  },
+  {
+    "id": "sidenav.master_catalog.top_sales",
+    "defaultMessage": "Top sales"
+  },
+  {
+    "id": "sidenav.master_catalog.item_mapping",
+    "defaultMessage": "Item mapping"
+  },
+  {
+    "id": "sidenav.master_catalog.products",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "sidenav.master_catalog.product_types",
+    "defaultMessage": "Product types"
+  },
+  {
+    "id": "sidenav.master_catalog.brands",
+    "defaultMessage": "Brands"
+  },
+  {
+    "id": "sidenav.master_catalog.price_list",
+    "defaultMessage": "Price list"
+  },
+  {
+    "id": "sidenav.master_delivery",
+    "defaultMessage": "Master delivery"
+  },
+  {
+    "id": "sidenav.master_catalog.comission_by_category",
+    "defaultMessage": "Comission by category"
+  },
+  {
+    "id": "sidenav.master_delivery.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "sidenav.manager",
+    "defaultMessage": "Manager"
+  },
+  {
+    "id": "sidenav.shops",
+    "defaultMessage": "Shops"
+  },
+  {
+    "id": "sidenav.system.attributes",
+    "defaultMessage": "Attributes"
+  },
+  {
+    "id": "sidenav.system",
+    "defaultMessage": "System"
+  },
+  {
+    "id": "sidenav.operations",
+    "defaultMessage": "Operations"
+  },
+  {
+    "id": "sidenav.operations.import",
+    "defaultMessage": "Import"
+  },
+  {
+    "id": "sidenav.inventory",
+    "defaultMessage": "Inventory"
+  },
+  {
+    "id": "sidenav.system.unit_of_measurement",
+    "defaultMessage": "Unit of measurement"
+  },
+  {
+    "id": "sidenav.system.type_of_income",
+    "defaultMessage": "Type of Income"
+  },
+  {
+    "id": "sidenav.catalog.approve_products",
+    "defaultMessage": "Approve Products"
+  },
+  {
+    "id": "sidenav.system.other_income",
+    "defaultMessage": "Other Income"
+  },
+  {
+    "id": "sidenav.system.articuleandbarcode",
+    "defaultMessage": "Articules And Barcodes"
+  },
+  {
+    "id": "sidenav.operations.excel_items_mapping",
+    "defaultMessage": "Excel items mapping"
+  },
+  {
+    "id": "sidenav.operations.excel_items_mapping_approve",
+    "defaultMessage": "Approve mapped items"
+  }
+]

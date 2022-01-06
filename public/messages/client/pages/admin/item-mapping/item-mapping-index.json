@@ -1,0 +1,14 @@
+[
+  {
+    "id": "item_mapping.create_success_msg",
+    "defaultMessage": "Item mapping created successfully"
+  },
+  {
+    "id": "item_mapping.delete_success_msg",
+    "defaultMessage": "Item mapping deleted mapping successfully"
+  },
+  {
+    "id": "item_mapping.title",
+    "defaultMessage": "Item Mapping"
+  }
+]
